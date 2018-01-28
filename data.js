@@ -52,7 +52,7 @@ var data = [
       {'link':'<a href="https://pan.baidu.com/s/1kUufuir" target="_blank" class="am-list-item-hd ">公事攻办.txt</a>'}, 
       {'link':'<a href="https://share.weiyun.com/72c6b11a341be7b4697b84d7e3484a03" target="_blank" class="am-list-item-hd ">攻很好哄の文</a>'}, 
       {'link':'<a href="https://share.weiyun.com/47225a2f6cdcb22c2780bbf517342e6d" target="_blank" class="am-list-item-hd ">先上床再恋爱</a>'}, 	
-      {'link':''}, 		  
+      {'link':'<a href="https://pan.baidu.com/s/1snbpwQx" target="_blank" class="am-list-item-hd ">【在许墨怀里】分享-各类耽美文合集</a>'},  
       {'link':''}	  
 ];  
   
