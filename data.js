@@ -2,6 +2,7 @@ var transform = {'tag':'li','html':'${link}'};
   
 var data = [  
       {'link':'<a href="#" target="_blank" class="am-list-item-hd ">通知:每周更新2次哦！不定期 哈哈哈</a>'}, 
+      {'link':'<a href="https://share.weiyun.com/40369216a7e02db487060b2b742384f0" target="_blank" class="am-list-item-hd ">学姐分享 37- 39 弹 合集</a>'},
       {'link':'<a href="https://share.weiyun.com/fd2725bc7b2f32e5e6a6b0e48dde98f0" target="_blank" class="am-list-item-hd ">学姐分享 34- 36 弹 合集</a>'}, 
       {'link':'<a href="https://share.weiyun.com/c23174aab883b78f2fb4dd56a933ed9c" target="_blank" class="am-list-item-hd ">学姐分享 31- 33 弹 合集</a>'}, 
       {'link':'<a href="https://share.weiyun.com/180f72a2ca50ca1635947d91f3bb7398" target="_blank" class="am-list-item-hd ">学姐分享 27- 30 弹 合集</a>'}, 	  
